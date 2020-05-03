@@ -1,0 +1,29 @@
+{
+  "name": "learningnodejs",
+  "version": "0.0.1",
+  "description": "A simple project to learn NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josedavidb/learningNodeJS.git"
+  },
+  "keywords": [
+    "learning",
+    "NodeJS",
+    "API",
+    "Rest",
+    "Express"
+  ],
+  "author": "josedavidb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josedavidb/learningNodeJS/issues"
+  },
+  "homepage": "https://github.com/josedavidb/learningNodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
